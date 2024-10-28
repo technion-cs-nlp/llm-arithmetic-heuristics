@@ -1,3 +1,3 @@
 # llm-arithmetic-heuristics
 
-Code will be added soon.
+This repository contains the code for the experiments (and [website](https://technion-cs-nlp.github.io/llm-arithmetic-heuristics/)) of the llm arithmetic heuristics project.
