@@ -1,6 +1,8 @@
 # llm-arithmetic-heuristics
 
-This repository contains the code for the experiments (and [website](https://technion-cs-nlp.github.io/llm-arithmetic-heuristics/)) of the llm arithmetic heuristics [paper](https://arxiv.org/abs/2410.21272).
+# [ICLR 2025] Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics
+
+Official code for experiments and (and [website](https://technion-cs-nlp.github.io/llm-arithmetic-heuristics/)) of ["Arithmetic Without Algorithms" paper](https://arxiv.org/abs/2410.21272), accepted to ICLR 2025.
 
 
 ## Repository structure
